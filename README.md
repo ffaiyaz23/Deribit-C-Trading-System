@@ -82,3 +82,5 @@ This repository contains a **high-performance** C++ application for trading on t
    mkdir build && cd build
    cmake .. -DCMAKE_TOOLCHAIN_FILE="C:/vcpkg/scripts/buildsystems/vcpkg.cmake"
    cmake --build . --config Release
+
+For any questions or issues, please contact faiz23011faiyaz@gmail.com.
